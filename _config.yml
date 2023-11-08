@@ -1,1 +1,5 @@
-t
+title: Habtamu Alemu
+#logo: assets/img/profilepic.png
+description: Data Scientist 
+show downloads: true
+theme: jekyll-theme-minimal
