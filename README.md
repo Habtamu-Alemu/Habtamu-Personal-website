@@ -2,10 +2,10 @@
 I am a data scientist working on data management and interpretations for more that 8 years and this is my portfolio.
 
 # Project 1: Satellite data processing and interpretation
-I have accessed data from many satellites on board.
-I filtered and cleaned many complex data sets.
-I have been drowing conclusions for my data analysis.
-Offten times I use MATLAB programing language.
+•	I have accessed data from many satellites on board.
+•	I filtered and cleaned many complex data sets.
+•	I have been drowing conclusions for my data analysis.
+•	Offten times I use MATLAB programing language.
 
 # Project 2: Python data processing
 I have a verygood skill in Python.
