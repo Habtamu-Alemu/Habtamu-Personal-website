@@ -2,9 +2,9 @@
 
 ### Education
 
-- PhD in Space physics, Bahir Dar University, Bahir Dar, Ethiopia, 2021
-- M.Sc. in Space physics, Bahir Dar University, Bahir Dar, Ethiopia, 2011
-- B.Sc. in Physics, Bahir Dar University, Bahir Dar, Ethiopia, 2009
+- Ph.D. in Space physics, Bahir Dar University, Ethiopia (February 2021)
+- M.Sc. in Space physics, Bahir Dar University, Ethiopia (June 2011)
+- B.Sc. in Physics, Bahir Dar University, Ethiopia (June 2009)
 
 ### Softwares and Skills
 - Matlab, Python, SQL/MySQL
