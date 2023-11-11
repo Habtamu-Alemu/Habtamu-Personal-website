@@ -33,4 +33,4 @@ To understand the dynamics of the equatorial ionosphere and mitigate its effect 
 [Publication](https://www.sciencedirect.com/science/article/pii/S0273117723007913)
 
 We evaluated and reported the International Reference Ionosphere (IRI) model's vertical Total Electron Content (TEC) regional profile. Diurnal, monthly, seasonal, and storm-time characteristics of IRI estimates over the equatorial region's ionosphere are validated. We compared the vertical TEC derived from IRI-2020 and its predecessor, IRI-2016, with the GPS-TEC measurements.
-![IRI-2020 TEC](Contour.png)
+![IRI-2020 TEC](Contour.png) ![IRI-2020 TEC](Histogram.png)
