@@ -5,6 +5,7 @@
 - Ph.D. in Space physics, Bahir Dar University, Ethiopia (February 2021)
 - M.Sc. in Space physics, Bahir Dar University, Ethiopia (June 2011)
 - B.Sc. in Physics, Bahir Dar University, Ethiopia (June 2009)
+- Certificate in Data Analytics: Google Advanced Data Analytics, Coursera Online (May 2024) 
 
 ## Softwares and Skills
 - Programming Languages: MATLAB, Python
