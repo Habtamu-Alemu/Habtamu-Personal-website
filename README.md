@@ -8,12 +8,13 @@
 
 
 ## Data Science Education
-### Google / Advanced Data Analytics Professional Certificate
+#### Google / Advanced Data Analytics Professional Certificate
 March  2024 - May 2024,  Online (Coursera)
+
 An extensive seven-month job-ready Google Career Certificate training. Demonstrated hands-on experience with advanced Data Analytics practices and tools, including data science workflows, Python programming and Tableau. Confidence in exploratory data analysis; statistical data analysis; regression analysis and data modeling, and machine learning basics.
-### Python for Data Science and Machine Learning
+#### Python for Data Science and Machine Learning
 January  2024 - February 2024,  Online (UDemy)
-### The Complete Python Bootcamp From Zero to Hero in Python
+#### The Complete Python Bootcamp From Zero to Hero in Python
 October  2023 - December 2023,  Online (UDemy)
 
 ## Softwares and Skills
