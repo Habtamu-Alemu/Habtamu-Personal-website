@@ -1,4 +1,4 @@
-# Data Scientist
+# Space Physicist & Data Scientist
 
 ## Education
 
