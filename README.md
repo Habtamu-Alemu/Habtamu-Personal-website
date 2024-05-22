@@ -31,7 +31,7 @@ October  2023 - December 2023,  Online (UDemy)
 ### Data Analytics Projects
 - Classification of Waze data: Built decision tree, random forest, and XGBoost to predict Waze user churn
 
-#### Waze App User churn poroject
+#### Waze App User churn project
 
 ##### About this project
 - The goal of this project was to use Python to build a dataframe, perform a preliminary inspection of the dataset, and inform the other team members of the results.
