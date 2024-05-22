@@ -31,18 +31,20 @@ October  2023 - December 2023,  Online (UDemy)
 ### Data Analytics Projects
 - Classification of Waze data: Built decision tree, random forest, and XGBoost to predict Waze user churn
 
-#### Waze App oroject 1
+#### Waze App User churn poroject
 
-##### Project Overview
-- A project overview should be a few sentences long stating the problem you solved, what data was used in the project, and your modeling results. 
-##### Business Understanding 
-- You should have a section that showcases the stakeholder(s) and the business problem you tried to solve. Feel free to add citations of research you did on your business problem here as well. 
-##### Data Understanding 
-- Explain what data you used in your analysis, the timeframe of the data, and any data limitations. This is also a good section to add visualizations of your exploratory data analysis. 
-##### Modeling and Evaluation 
-- This section should detail what models you used and the corresponding evaluation metrics. 
-##### Conclusion
-- In the conclusion section explain the recommendations you have in solving the business problem and highlight any future steps you will take to expand on your project, 
+##### About this project
+- The goal of this project was to use Python to build a dataframe, perform a preliminary inspection of the dataset, and inform the other team members of the results.
+- At this stage, we were focused on inspecting user data to uncover any important relationships in the driving data for retained and churned users.
+- This also involved creating a pandas dataframe for data learning, future EDA, and statistical findings.
+- The insights from this project will help guide the next steps for the analytics department.
+  
+##### Key Insights
+- This dataset contains approximately 82% retained users and 18% churned users.
+- The label column is missing 700 values.
+- Retained users used the app over twice as many days as churned users in the last month.
+- Churned users had more drives overall in fewer days, and their trips were longer in both distance and duration.
+- The users in this dataset drove a lot of mileage overall. This may be worth exploring more to determine a more complete user profile.
 
 ### Space Science Projects
 - Upper atmosphere dynamics
