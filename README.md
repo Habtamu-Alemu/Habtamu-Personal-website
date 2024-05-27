@@ -57,7 +57,7 @@ October  2023 - December 2023,  Online (UDemy)
 [Publication](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019RS006800)
 
 To understand the dynamics of the equatorial ionosphere and mitigate its effect on radio wave propagation, vertical ion drift velocity empirical models have been developed using limited ground‐based and/or space‐based observations. These models, however, have not yet been validated in detail using recent observations for sufficiently different longitudinal sectors. In this paper we have evaluated the performance of two empirical models and also propose a simplified vertical drift velocity model based on basic physics laws (i.e., Ampere's and Ohm's laws) that we call it parameterized drift velocity (PDV) model. These models have been applied to estimate the Eregion electric field and the associated F region E×B drift velocity using observed horizontal magnetic fields, due to equatorial electrojet current, as model driver input. Drift velocities obtained from these models are compared with the Communication/Navigation Outage Forecasting System (C/NOFS) satellite in situ vertical drift observations for different longitudinal sectors.
-![Vertical drift](Vertical_drift.jpg) 
+![Vertical drift](Vertical_drift1.png) 
  
 
 #### Valdation of International Reference Ionosphere Model (IRI-2020 TEC)
