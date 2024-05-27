@@ -70,4 +70,4 @@ We evaluated and reported the International Reference Ionosphere (IRI) model's v
 We present a storm time Ionosphere-Thermosphere profile to the January 14, 2022 Moderate Storm under Solar Minimum condition. ICON satellite observations (ion density and neutral wind speed) are used for the storm time analysis. The study has been conducted using ionosphere-thermosphere parameters from a bout 85-600 km altitude which allows to look storm responses of different layers of ionosphere unlike the most common single-layer analysis.
 ![Ion density](Ion_density.png) 
 
-<a href="https://github.com/Habtamu-Alemu/Portfolio/Resume_2023.pdf" target="_blank">Full Resume</a>
+
